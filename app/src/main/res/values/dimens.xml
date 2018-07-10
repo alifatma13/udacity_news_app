@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- width of image in list item-->
+    <dimen name="list_item_image_width">128dp</dimen>
+    <!-- Length of list Item-->
+    <dimen name="list_item_image_height">182dp</dimen>
+</resources>
