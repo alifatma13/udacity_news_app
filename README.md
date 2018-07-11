@@ -8,9 +8,9 @@ As a part of Udacity Nanodegree this app is created for practicing the Networkin
 
 This practice app helped to learn the following:
 
-Fetching data from an API using a class such as HttpUriRequest or HttpURLConnection.
-Using an AsyncTaskLoader so that the network call occurs off the UI thread
-Parsing a JSON response
-Creating a list based on that data and displaying it to the user.
-Providing appropriate messages to user by checking whether the device is connected to the internet or the response id empty.
-Implementing Shared Preferences
+1)Fetching data from an API using a class such as HttpUriRequest or HttpURLConnection.
+2)Using an AsyncTaskLoader so that the network call occurs off the UI thread
+3)Parsing a JSON response
+4)Creating a list based on that data and displaying it to the user.
+5)Providing appropriate messages to user by checking whether the device is connected to the internet or the response id empty.
+6)Implementing Shared Preferences
