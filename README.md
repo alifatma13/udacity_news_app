@@ -1,8 +1,8 @@
 # udacity_news_app
 A news app that connects to the Internet to provide news articles on a topic of your choice.
 
-Allows a user to get a list of published news by The Guardian (Newspaper) on a given topic using the the Guardian's news api in order to 
-fetch results and display them to the user.
+Allows user to get a list of published news by The Guardian (Newspaper) on a given topic using the Guardian's news api in order to 
+fetch results and display them to the user. 
 
 As a part of Udacity Nanodegree this app is created for practicing the Networking and local storage concepts in Android Mobile apps.
 
